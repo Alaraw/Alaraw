@@ -1,19 +1,40 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20MAGNE-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magne-a5a546106/)
-[![Telegram](https://img.shields.io/badge/TomSmall-0078D4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TomSmall)
-[![Hackthebox](https://img.shields.io/badge/TomSmall-0078D4?style=flat-square&logo=Hacktheboxm&logoColor=white)](https://www.hackthebox.eu/profile/897533)]
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+I´m Thomas, System Administrator in France
+
+## 💻 Languages & Tools
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+
+  [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
+  [![OS](https://img.shields.io/badge/OS-RedHat-informational?style=flat-square&logo=redhat&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
+  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+  [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=microsoft&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
+  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+  ![AWS](https://img.shields.io/badge/AWX-black?style=flat-square&logo=apache)
+  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=influxdb)
+
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
+
+
+  ![PS](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-bash-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20MAGNE-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magne-a5a546106/)
+  [![Telegram](https://img.shields.io/badge/TomSmall-0078D4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TomSmall)
+  [![Hackthebox](https://img.shields.io/badge/TomSmall-0078D4?style=flat-square&logo=Hacktheboxm&logoColor=white)](https://www.hackthebox.eu/profile/897533)
 
 <details>
 <summary>Click for GitHub Stats</summary>
