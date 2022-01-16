@@ -14,19 +14,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
- <p align="center">
- <a href="https://github.com/Alaraw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaraw&count_private=true&show_icons=true&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/Alaraw">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaraw&layout=compact&theme=chartreuse-dark&langs_count=8" />
-  </a>
-  </p>
 
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alaraww&show_icons=true&count_private=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alaraw&show_icons=true&count_private=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
