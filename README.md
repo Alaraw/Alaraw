@@ -22,9 +22,8 @@ I´m Thomas, System Administrator in France
   ![AWS](https://img.shields.io/badge/AWX-black?style=flat-square&logo=awx)
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
   ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=influxdb)
-
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus)
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-white?style=flat-square&logo=openssl)
 
 
   ![PS](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
@@ -36,7 +35,7 @@ I´m Thomas, System Administrator in France
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20MAGNE-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magne-a5a546106/)
   [![Telegram](https://img.shields.io/badge/TomSmall-0078D4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TomSmall)
-  [![Hackthebox](https://img.shields.io/badge/TomSmall-0078D4?style=flat-square&logo=Hacktheboxm&logoColor=white)](https://www.hackthebox.eu/profile/897533)
+  ![Discord](https://img.shields.io/badge/Discord-white?style=flat-square&logo=discord)
 
 <details>
 <summary>Click for GitHub Stats</summary>
