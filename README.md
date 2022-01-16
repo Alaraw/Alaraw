@@ -23,7 +23,7 @@ I´m Thomas, System Administrator in France
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
   ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-white?style=flat-square&logo=openssl)
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
 
 
   ![PS](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
