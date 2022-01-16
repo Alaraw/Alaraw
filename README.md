@@ -13,3 +13,11 @@
     <img src="https://img.shields.io/badge/TomSmall-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
+
+
+  <a href="https://github.com/Alaraw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alaraw&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/Alaraw">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaraw&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  </a>
