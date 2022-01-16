@@ -11,13 +11,15 @@ I´m Thomas, System Administrator in France
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-  [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
-  [![OS](https://img.shields.io/badge/OS-RedHat-informational?style=flat-square&logo=redhat&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
-  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-  [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=microsoft&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
+  [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+  [![OS](https://img.shields.io/badge/OS-RedHat-informational?style=flat-square&logo=redhat&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+  [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+
+
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-  ![AWS](https://img.shields.io/badge/AWX-black?style=flat-square&logo=apache)
+  ![AWS](https://img.shields.io/badge/AWX-black?style=flat-square&logo=awx)
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
   ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=influxdb)
