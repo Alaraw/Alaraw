@@ -18,10 +18,10 @@ I´m Thomas, System Administrator in France
 
 
   ![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat-square&logo=ansible&logoColor=white)
-  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache&logoColor=white)
+  ![Apache2](https://img.shields.io/badge/Apache2-informational?style=flat-square&logo=apache&logoColor=white)
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-  ![Grafana](https://img.shields.io/badge/Grafana-white?style=flat-square&logo=grafana)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-white?style=flat-square&logo=prometheus)
+  ![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat-square&logo=grafana)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-informational?style=flat-square&logo=prometheus)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-informational?style=flat-square&logo=openssl&logoColor=white)
 
 
