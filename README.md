@@ -3,9 +3,6 @@
   <a href="https://twitter.com/TomSmall_">
     <img src="https://img.shields.io/twitter/follow/TomSmall_?style=for-the-badge&label=%40TomSmall_&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
-  <a href="https://www.linkedin.com/in/thomas-magne-a5a546106/">
-    <img src="https://img.shields.io/badge/-Thomas%20MAGNE-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
   <a href="https://t.me/TomSmall">
     <img src="https://img.shields.io/badge/TomSmall-0078D4?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black%22">
   </a>
@@ -15,7 +12,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20MAGNE-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magne-a5a546106/)
-
+[![Telegram](https://img.shields.io/badge/TomSmall-0078D4?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black%22)](https://t.me/TomSmall)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
