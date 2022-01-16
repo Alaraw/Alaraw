@@ -18,18 +18,18 @@ I´m Thomas, System Administrator in France
 
 
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
-  ![Apache2](https://img.shields.io/badge/Apache2-white?style=flat-square&logo=apache)
+  ![Apache2](https://img.shields.io/badge/Apache2-grey?style=flat-square&logo=apache)
   ![AWX](https://img.shields.io/badge/AWX-black?style=flat-square&logo=awx)
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
   ![Grafana](https://img.shields.io/badge/Grafana-white?style=flat-square&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/Prometheus-white?style=flat-square&logo=prometheus)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-grey?style=flat-square&logo=openssl)
 
 
   ![PS](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20MAGNE-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magne-a5a546106/)
