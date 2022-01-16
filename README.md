@@ -17,12 +17,13 @@ I´m Thomas, System Administrator in France
   [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
 
-  ![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat-square&logo=ansible&logoColor=white)
-  ![Apache2](https://img.shields.io/badge/Apache2-informational?style=flat-square&logo=apache&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible&logoColor=white)
+  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache&logoColor=white)
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-  ![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat-square&logo=grafana)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-informational?style=flat-square&logo=prometheus)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-informational?style=flat-square&logo=openssl&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
 
 
   ![PS](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
@@ -32,6 +33,7 @@ I´m Thomas, System Administrator in France
   ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)
 
 
+  [![iphone](https://img.shields.io/badge/ios-informational?style=flat-square&logo=ios)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20MAGNE-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magne-a5a546106/)
   [![Telegram](https://img.shields.io/badge/TomSmall-0078D4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TomSmall)
   ![Discord](https://img.shields.io/badge/Discord-white?style=flat-square&logo=discord)
