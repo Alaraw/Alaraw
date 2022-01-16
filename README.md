@@ -14,6 +14,7 @@
   </a>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas MAGNE-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magne-a5a546106//)
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
