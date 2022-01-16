@@ -17,7 +17,7 @@ I´m Thomas, System Administrator in France
   [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
 
-  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+  ![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat-square&logo=ansible)
   ![Apache2](https://img.shields.io/badge/Apache2-grey?style=flat-square&logo=apache)
   ![AWX](https://img.shields.io/badge/AWX-black?style=flat-square&logo=awx)
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
