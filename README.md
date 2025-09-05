@@ -1,6 +1,8 @@
 ### Hello, I'm Thomas! 👋
 
-I'm a System Administrator based in France with a passion for automation and DevOps. I specialize in managing both Linux and Windows infrastructures and enjoy using tools like **Ansible** and **Docker** to build robust, scalable environments. My current focus is on modern monitoring with the **Prometheus/Grafana** stack.
+I'm a System Administrator based in France with a passion for automation and DevOps.
+I specialize in managing Linux and infrastructures and enjoy using tools like **Ansible** and **Docker** to build robust, scalable environments.
+My current focus is on modern monitoring with the **Prometheus/Grafana** stack.
 
 ---
 
