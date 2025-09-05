@@ -50,7 +50,7 @@ I manage data protection strategies and implement backup solutions to ensure bus
 
 <p>
   <img src="https://img.shields.io/badge/Cohesity-0092D3?style=for-the-badge&logo=cohesity&logoColor=white" alt="Cohesity" />
-  <img src="https://img.shields.io/badge/Cohesity-0092D3?style=for-the-badge&logo=cohesity&logoColor=white" alt="EMC NetWorker" />
+  <img src="https://img.shields.io/badge/EMC-NetWorker-0092D3?style=for-the-badge&logo=EMC-NetWorker&logoColor=white" alt="EMC NetWorker" />
   <img src="https://img.shields.io/badge/Veeam-00BA31?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam" />
 </p>
 
