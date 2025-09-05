@@ -41,7 +41,7 @@ I'm a System Administrator based in France with a passion for automation and Dev
 
 #### Languages & Scripting
 <p>
-  <img src="https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3" />
