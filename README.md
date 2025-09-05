@@ -40,8 +40,10 @@ I build and maintain monitoring systems to track performance, identify issues, a
 I have experience with both traditional and software-defined storage solutions to meet various performance and capacity needs.
 
 <p>
-  <img src="https://img.shields.io/badge/Netapp-%23000000.svg?style=for-the-badge&logo=netapp&logoColor=white" alt="Netapp" />
-  <img src="https://img.shields.io/badge/Ceph-%233B1E43.svg?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph" />
+  <img src="https://img.shields.io/badge/Ceph-3B1E43?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph" />
+  <img src="https://img.shields.io/badge/EMC_SAN-FF7601?style=for-the-badge&logo=dell&logoColor=white" alt="EMC SAN" />
+  <img src="https://img.shields.io/badge/NetApp-262337?style=for-the-badge&logo=netapp&logoColor=white" alt="NetApp" />
+  <img src="https://img.shields.io/badge/Pure_Storage-0099D8?style=for-the-badge&logo=pure-storage&logoColor=white" alt="Pure Storage" />
   <img src="https://img.shields.io/badge/TrueNAS-101010?style=for-the-badge&logo=freenas&logoColor=white" alt="TrueNAS" />
 </p>
 
@@ -50,7 +52,7 @@ I manage data protection strategies and implement backup solutions to ensure bus
 
 <p>
   <img src="https://img.shields.io/badge/Cohesity-0092D3?style=for-the-badge&logo=cohesity&logoColor=white" alt="Cohesity" />
-  <img src="https://img.shields.io/badge/EMC-NetWorker-0092D3?style=for-the-badge&logo=EMC-NetWorker&logoColor=white" alt="EMC NetWorker" />
+  <img src="https://img.shields.io/badge/EMC_NetWorker-00A4E5?style=for-the-badge&logo=dell&logoColor=white" alt="EMC NetWorker" />
   <img src="https://img.shields.io/badge/Veeam-00BA31?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam" />
 </p>
 
