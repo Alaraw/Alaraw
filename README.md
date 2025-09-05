@@ -41,9 +41,9 @@ I have experience with both traditional and software-defined storage solutions t
 
 <p>
   <img src="https://img.shields.io/badge/Ceph-3B1E43?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph" />
-  <img src="https://img.shields.io/badge/EMC_SAN-FF7601?style=for-the-badge&logo=dell&logoColor=white" alt="EMC SAN" />
+  <img src="https://img.shields.io/badge/EMC_SAN-00A4E5?style=for-the-badge&logo=dell&logoColor=white" alt="EMC SAN" />
   <img src="https://img.shields.io/badge/NetApp-262337?style=for-the-badge&logo=netapp&logoColor=white" alt="NetApp" />
-  <img src="https://img.shields.io/badge/Pure_Storage-0099D8?style=for-the-badge&logo=pure-storage&logoColor=white" alt="Pure Storage" />
+  <img src="https://img.shields.io/badge/Pure_Storage-F58428?style=for-the-badge&logo=pure-storage&logoColor=white" alt="Pure Storage" />
   <img src="https://img.shields.io/badge/TrueNAS-101010?style=for-the-badge&logo=freenas&logoColor=white" alt="TrueNAS" />
 </p>
 
