@@ -16,11 +16,9 @@ I'm a System Administrator based in France with a passion for automation and Dev
 
 ## Operating System
 <p>
-  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -35,6 +33,7 @@ I'm a System Administrator based in France with a passion for automation and Dev
 
 #### Languages & Scripting
 <p>
+  <img src="https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -45,8 +44,8 @@ I'm a System Administrator based in France with a passion for automation and Dev
 
 ### 🚀 Projects
 
-* **Project Name 1**: A brief explanation of the project and the technologies used.
-* **Project Name 2**: Another brief explanation.
+* **Project Name 1**: Migration of the Onprem deployment options from Bash to Ansible
+* **Project Name 2**: Refacto of all Puppet existing code for comformity of Linux Platform & CIS Hardening
 
 ---
 
