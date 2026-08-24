@@ -112,6 +112,6 @@ Built lightweight Go services (Prometheus metrics, Swagger UI, distroless contai
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&hide_title=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alaraw&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaraw&layout=compact&hide_border=true&hide_title=true" height="150" alt="Top Languages" />
 </div>
